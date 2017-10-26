@@ -2,7 +2,7 @@
   "name": "Smart Doctor",
   "short_name": "Smart Doctor",
   "lang": "en-US",
-  "start_url": "/",
+  "start_url": "https://rbcabreraupm.github.io/Smart-Doctor/",
   "display": "standalone",
   "theme_color": "#1976d2",
  "icons": [
